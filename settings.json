@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
+    "ip": "yourelosingpal.play.hosting",
+    "port": 33273,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "nigga",
+        "nigger",
+        "NIGGAAAAAAAA"
       ]
     },
     "chat-log": true,
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1457290309355700338/6w7FSJuqMfx9zpICKRDie3hk4NqEjUqbc-0VFJMhBUmZzCh4MA8jWXKKAreIpq6uTKNW",
     "events": {
       "connect": true,
       "disconnect": true,
